@@ -10,4 +10,5 @@ If you've built a cool desktop using BBDE, please share it:
 3. (Optional) Include your config files so others can use your setup!
 
 I'll feature the best ones right here in the README.
+(This DE expects that you have set up a WM before. Make sure to watch or read tutorials on how to set up a WM to boot all things needed.)
 
